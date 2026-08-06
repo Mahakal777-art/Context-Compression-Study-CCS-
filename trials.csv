@@ -1,0 +1,1 @@
+trial_id,age_days,group,time_to_clue_sec,time_to_certainty_sec,confidence_score,accuracy_score,recovery_success,overhead_ms,capture_failed
